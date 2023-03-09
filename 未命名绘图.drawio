@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T14:34:46.564Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="G9KyhU-wtgDuv3-DL-F1" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T14:34:51.142Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="3RG6b87cKnmGE5Ph4aIv" version="21.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="952" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -272,12 +272,12 @@
           <mxGeometry x="1830" y="220" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eEgyTP1LghwbzvH3Qmx7-37" value="课程展示信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="eEgyTP1LghwbzvH3Qmx7-22">
-          <mxGeometry x="0.7225" y="-12" relative="1" as="geometry">
+          <mxGeometry x="0.4704" relative="1" as="geometry">
             <mxPoint x="1580" y="560" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="1920" y="560" />
             </Array>
-            <mxPoint x="-6" y="10" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eEgyTP1LghwbzvH3Qmx7-45" value="教师信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.001;entryY=0.389;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eEgyTP1LghwbzvH3Qmx7-36" target="eEgyTP1LghwbzvH3Qmx7-43">
