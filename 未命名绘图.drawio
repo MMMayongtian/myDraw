@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T14:23:27.470Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="LkDYUdi7wsO4Ipo_-b-W" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T14:26:44.506Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="sIlT8ToqyQRcCCiKcsz_" version="21.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="952" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -220,14 +220,26 @@
         <mxCell id="eEgyTP1LghwbzvH3Qmx7-19" value="在线选课系统" style="ellipse;whiteSpace=wrap;html=1;points=[[0,0,0,0,0],[0,0.5,0,0,0],[0,1,0,0,0],[0.04,0.7,0,0,0],[0.05,0.29,0,0,0],[0.31,0.97,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.69,0.97,0,0,0],[0.96,0.29,0,0,0],[0.96,0.7,0,0,0],[1,0,0,0,0],[1,0.5,0,0,0],[1,1,0,0,0]];" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1090" y="160" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="eEgyTP1LghwbzvH3Qmx7-20" value="处理选课信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1060" y="390" width="90" height="50" as="geometry" />
+        <mxCell id="eEgyTP1LghwbzvH3Qmx7-33" value="选课结果" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.688;entryY=1.054;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eEgyTP1LghwbzvH3Qmx7-20" target="eEgyTP1LghwbzvH3Qmx7-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eEgyTP1LghwbzvH3Qmx7-20" value="处理选课操作" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1520" y="300" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eEgyTP1LghwbzvH3Qmx7-21" value="处理用户信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1490" y="360" width="90" height="50" as="geometry" />
+          <mxGeometry x="1920" y="370" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="eEgyTP1LghwbzvH3Qmx7-22" value="处理课程信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1250" y="430" width="90" height="50" as="geometry" />
+        <mxCell id="eEgyTP1LghwbzvH3Qmx7-22" value="课程信息展示" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1540" y="430" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eEgyTP1LghwbzvH3Qmx7-30" value="登录验证" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1810" y="30" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eEgyTP1LghwbzvH3Qmx7-32" value="选课信息" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eEgyTP1LghwbzvH3Qmx7-31" target="eEgyTP1LghwbzvH3Qmx7-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eEgyTP1LghwbzvH3Qmx7-31" value="学生" style="rounded=0;whiteSpace=wrap;html=1;points=[[0,0,0,0,0],[0,0.25,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.16,1,0,0,0],[0.25,0,0,0,0],[0.31,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1640" y="160" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
