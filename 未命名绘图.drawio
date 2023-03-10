@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-10T14:28:13.991Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="Ggb2bxi9eAGPGl6botXR" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-10T14:28:31.228Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="3SZrzkkrM4rNr_6A7Y84" version="21.0.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="580" dy="5024" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -639,7 +639,7 @@
         <mxCell id="OhK7GW0cEDtw8lST5x4T-13" value="进入修改用户信息界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="-4200" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OhK7GW0cEDtw8lST5x4T-17" value="进入选课页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="OhK7GW0cEDtw8lST5x4T-17" value="进入选课主页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320.5" y="-4080" width="99.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OhK7GW0cEDtw8lST5x4T-19" value="计划完成情况展示页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
