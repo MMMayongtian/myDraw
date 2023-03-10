@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-10T14:28:31.228Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="3SZrzkkrM4rNr_6A7Y84" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-10T14:34:11.654Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="UhLY3r3Ub-lUrHMH_QsR" version="21.0.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="580" dy="5024" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="963" dy="5095" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -432,7 +432,7 @@
             <mxPoint x="2580" y="195" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AUuMM-ladJ1JCODlVVHa-21" value="2.2确定是否可选" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="AUuMM-ladJ1JCODlVVHa-21" value="2.2进行课程选择" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2390" y="170" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AUuMM-ladJ1JCODlVVHa-24" value="课程安排信息" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -639,11 +639,23 @@
         <mxCell id="OhK7GW0cEDtw8lST5x4T-13" value="进入修改用户信息界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="-4200" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="OhK7GW0cEDtw8lST5x4T-22" value="查看课程信息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OhK7GW0cEDtw8lST5x4T-17" target="OhK7GW0cEDtw8lST5x4T-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OhK7GW0cEDtw8lST5x4T-24" value="选课" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OhK7GW0cEDtw8lST5x4T-17" target="OhK7GW0cEDtw8lST5x4T-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OhK7GW0cEDtw8lST5x4T-17" value="进入选课主页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320.5" y="-4080" width="99.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OhK7GW0cEDtw8lST5x4T-19" value="计划完成情况展示页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="141" y="-4200" width="99.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OhK7GW0cEDtw8lST5x4T-21" value="课程信息展示页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="-4080" width="99.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OhK7GW0cEDtw8lST5x4T-23" value="进入选课主页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320.5" y="-3950" width="99.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
