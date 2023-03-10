@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-10T06:42:57.571Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="6fr9Rl-3MJCyZD_IFDyB" version="21.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-10T06:43:08.044Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="a27_Ps9HQDdZeWb75d__" version="21.0.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1394" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -379,8 +379,7 @@
             <mxPoint x="2350" y="140" as="sourcePoint" />
             <mxPoint x="2150" y="380" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2350" y="140" />
-              <mxPoint x="2555" y="140" />
+              <mxPoint x="2595" y="140" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -409,7 +408,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AUuMM-ladJ1JCODlVVHa-21" value="2.1检验选课时间与专业" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2510" y="240" width="90" height="50" as="geometry" />
+          <mxGeometry x="2550" y="240" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
