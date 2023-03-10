@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-10T06:35:48.099Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="T4haqHalRbcweJav2jC9" version="21.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-10T06:36:34.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="eiZX6O00qNOXvqpJiNig" version="21.0.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1394" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -179,7 +179,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eEgyTP1LghwbzvH3Qmx7-14" value="课程展示信息" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.111;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eEgyTP1LghwbzvH3Qmx7-15" target="eEgyTP1LghwbzvH3Qmx7-19" edge="1">
+        <mxCell id="eEgyTP1LghwbzvH3Qmx7-14" value="课程信息" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.111;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eEgyTP1LghwbzvH3Qmx7-15" target="eEgyTP1LghwbzvH3Qmx7-19" edge="1">
           <mxGeometry x="0.47" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -347,7 +347,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eEgyTP1LghwbzvH3Qmx7-50" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1510" y="160" width="60" height="10" as="geometry" />
+          <mxGeometry x="1510" y="168" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="AUuMM-ladJ1JCODlVVHa-7" value="已修课程信息" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eEgyTP1LghwbzvH3Qmx7-57" target="eEgyTP1LghwbzvH3Qmx7-21">
           <mxGeometry x="0.2308" y="10" relative="1" as="geometry">
