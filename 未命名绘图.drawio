@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T03:31:32.836Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="IWakQwqOQe1xVUTbEVeU" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-16T03:33:15.291Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="kn9KEJeRflQ66uI30zPe" version="24.2.5" type="github">
   <diagram name="第 1 页" id="UzVM-HZsmOHKbgVcmjqN">
-    <mxGraphModel dx="1108" dy="1330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1403" dy="1499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -284,6 +284,24 @@
             <mxPoint x="-9" y="19" as="sourcePoint" />
             <mxPoint x="-1" y="11" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YGMgHrtHSEHqxeywknxr-88" value="X&lt;sub&gt;t-1&lt;/sub&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="-180" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YGMgHrtHSEHqxeywknxr-89" value="X&lt;sub&gt;t&lt;/sub&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="-170" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YGMgHrtHSEHqxeywknxr-90" value="X&lt;sub&gt;t+1&lt;/sub&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="-160" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YGMgHrtHSEHqxeywknxr-92" value="h&lt;sub&gt;t-1&lt;/sub&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="-140" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YGMgHrtHSEHqxeywknxr-93" value="h&lt;sub&gt;t&lt;/sub&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="-130" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YGMgHrtHSEHqxeywknxr-94" value="h&lt;sub&gt;t+1&lt;/sub&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="-120" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
