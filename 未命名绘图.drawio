@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-26T20:56:13.503Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="0phbNfyf7z1JqEYja7eY" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-26T20:57:26.972Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="6KY2gVJroYmpXwGbjT3s" version="24.2.7" type="github">
   <diagram name="第 1 页" id="UzVM-HZsmOHKbgVcmjqN">
     <mxGraphModel dx="1712" dy="1664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2106,11 +2106,17 @@
         <mxCell id="u0S6ClGe_f5Mz-zyViET-445" value="Input:&amp;nbsp; &amp;nbsp;(None,16,6)&lt;div&gt;&amp;nbsp; output: (None,16,64)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="330" y="673" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="u0S6ClGe_f5Mz-zyViET-446" value="dropout" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="220" y="733" width="60" height="30" as="geometry" />
+        <mxCell id="u0S6ClGe_f5Mz-zyViET-446" value="dropout(0.2)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="205" y="733" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u0S6ClGe_f5Mz-zyViET-448" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;Input:&amp;nbsp; &amp;nbsp;(None,16,50)&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;output: (None,50)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="335" y="723" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u0S6ClGe_f5Mz-zyViET-449" value="dense(3)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="220" y="780" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u0S6ClGe_f5Mz-zyViET-450" value="&amp;nbsp; Input:&amp;nbsp; &amp;nbsp;(None,50)&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;output: (None,1)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="345" y="775" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
