@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-26T21:10:37.467Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="xJtMeBjgkJA7xCeRDJn8" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-26T21:12:05.008Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="w-kosVUCCX6PICGqS5A0" version="24.2.7" type="github">
   <diagram name="第 1 页" id="UzVM-HZsmOHKbgVcmjqN">
     <mxGraphModel dx="1343" dy="1458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2181,11 +2181,11 @@
             <mxPoint x="615.5799999999999" y="419.72" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u0S6ClGe_f5Mz-zyViET-472" value="LSTM(64)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="503.5" y="775" width="80" height="30" as="geometry" />
+        <mxCell id="u0S6ClGe_f5Mz-zyViET-472" value="Conv1d(6,6,7)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="496.5" y="356" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u0S6ClGe_f5Mz-zyViET-473" value="Input:&amp;nbsp; &amp;nbsp;(None,16,6)&lt;div&gt;&amp;nbsp; output: (None,16,64)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="593.5" y="770" width="140" height="40" as="geometry" />
+        <mxCell id="u0S6ClGe_f5Mz-zyViET-473" value="Input:&amp;nbsp; &amp;nbsp;(None,6,16)&lt;div&gt;output: (None,6,10)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="598.5" y="770" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
