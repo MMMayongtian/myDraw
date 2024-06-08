@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2024-06-08T08:46:31.767Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" version="24.3.1" etag="sZ1uji5asGnPu_9oqWcH" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-08T08:53:08.908Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="sbvV36aU0WUeElTOuxAx" version="24.3.1" type="github">
   <diagram name="第 1 页" id="Np5g19sTjuQN8XIxTQIX">
-    <mxGraphModel>
+    <mxGraphModel dx="885" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xO19QTCpFd1LOzRahllu-1" value="&lt;div style=&quot;font-size: medium; text-align: start;&quot; data-hash=&quot;a9165d3e51a215f3cddf8d5b3a274f44&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: medium; text-align: start;&quot; class=&quot;document&quot;&gt;&lt;div class=&quot;section&quot;&gt;&lt;p style=&quot;margin: 0pt; text-align: justify; font-family: 等线; font-size: 12pt; line-height: 22pt;&quot; class=&quot;paragraph text-align-type-justify&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: 宋体; font-weight: bold; color: rgb(51, 51, 51); letter-spacing: 0pt; vertical-align: baseline;&quot; data-font-family=&quot;宋体&quot;&gt;基于大模型的飞行轨迹预测时序建模&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="130" width="620" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xO19QTCpFd1LOzRahllu-2" value="&lt;div style=&quot;font-size: medium; text-align: start;&quot; data-hash=&quot;c56bc3a6468e6ee02840d39db7b181fa&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: medium; text-align: start;&quot; class=&quot;document&quot;&gt;&lt;div class=&quot;section&quot;&gt;&lt;p style=&quot;margin: 0pt; text-align: justify; font-family: 等线; font-size: 12pt; line-height: 22pt;&quot; class=&quot;paragraph text-align-type-justify&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: 宋体; font-weight: bold; color: rgb(51, 51, 51); background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; letter-spacing: 0pt; vertical-align: baseline;&quot; data-font-family=&quot;宋体&quot;&gt;基于xLSTM的轨迹预测&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="130" y="240" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xO19QTCpFd1LOzRahllu-3" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: 宋体; font-size: 16px; font-weight: 700; text-align: justify;&quot;&gt;基于大模型的轨迹预测&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="380" y="240" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xO19QTCpFd1LOzRahllu-4" value="&lt;div style=&quot;font-size: medium; text-align: start;&quot; data-hash=&quot;b2df4ce89868642a61a8cfd2494da5e4&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: medium; text-align: start;&quot; class=&quot;document&quot;&gt;&lt;div class=&quot;section&quot;&gt;&lt;p style=&quot;margin: 0pt; text-align: justify; font-family: 等线; font-size: 12pt; line-height: 22pt;&quot; class=&quot;paragraph text-align-type-justify&quot;&gt;&lt;span style=&quot;font-size: 12pt; font-family: 宋体; font-weight: bold; letter-spacing: 0pt; vertical-align: baseline;&quot; data-font-family=&quot;宋体&quot;&gt;飞行轨迹预测模型优化&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="130" y="320" width="480" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
