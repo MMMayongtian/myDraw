@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-16T16:02:42.255Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="zl5rrTYY_pmzaniwn7qb" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-16T16:04:57.273Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="cCuQGakjSye7zM0zaJzU" version="24.5.4" type="github">
   <diagram name="第 1 页" id="Np5g19sTjuQN8XIxTQIX">
-    <mxGraphModel dx="947" dy="67" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1712" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -986,7 +986,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SAeuvQ9Gx3kOA1W9t-VI-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1009" y="1150" width="120" height="60" as="geometry" />
+          <mxGeometry x="960" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SAeuvQ9Gx3kOA1W9t-VI-11" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -994,8 +994,8 @@
             <mxPoint x="940" y="891.96" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SAeuvQ9Gx3kOA1W9t-VI-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="939" y="862" width="120" height="60" as="geometry" />
+        <mxCell id="SAeuvQ9Gx3kOA1W9t-VI-9" value="&lt;div style=&quot;font-size: medium; text-align: start;&quot; data-hash=&quot;ebcec36094cc9475f54d1f5ff1a88db0&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: medium; text-align: start;&quot; class=&quot;document&quot;&gt;&lt;div class=&quot;section&quot;&gt;&lt;p style=&quot;margin: 0pt 0pt 0pt 16.8pt; text-align: justify; font-family: 等线; font-size: 12pt; line-height: 16px; text-indent: -16.8pt;&quot; class=&quot;paragraph text-align-type-justify&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: 宋体; letter-spacing: 0pt; vertical-align: baseline;&quot; data-font-family=&quot;宋体&quot;&gt;1.&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14px; text-indent: -22.4px; background-color: initial;&quot;&gt;面向冲突检测准确率&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0pt 16.8pt; text-align: justify; font-family: 等线; font-size: 12pt; line-height: 16px; text-indent: -16.8pt;&quot; class=&quot;paragraph text-align-type-justify&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: 宋体; letter-spacing: 0pt; vertical-align: baseline;&quot; data-font-family=&quot;宋体&quot;&gt;2.&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 14px; text-indent: -22.4px; background-color: initial;&quot;&gt;引入冲突检测损失函数&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="939" y="870" width="171" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
